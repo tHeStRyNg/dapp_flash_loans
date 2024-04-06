@@ -1,4 +1,41 @@
-# Trading Bot Demo - https://www.youtube.com/watch?v=BtVZ7DmJN2E&t=3537s&ab_channel=DappUniversity
+##### Trading Bot Demo - https://www.youtube.com/watch?v=BtVZ7DmJN2E&t=3537s&ab_channel=DappUniversity
+```
+- DAAP UNIVERSITY -
+https://dappuniversity.teachable.com/
+User: niv137@gmail.com
+Pass: Dimebag1
+
+flashloan_masterclass_hardhat-master - https://www.youtube.com/watch?v=YBSkxsl9suM - Flash Loan Masterclass, August 2023 Replay - https://www.youtube.com/watch?v=YBSkxsl9suM
+
+20230209-flashloan_masterclass_hardhat-master - https://www.youtube.com/watch?v=A5wutnEw0Go - Flash Loan Masterclass (May 2023) - https://www.youtube.com/watch?v=A5wutnEw0Go
+
+https://blockchain-mastery-university.s3.amazonaws.com/20230209-flashloan_masterclass_hardhat-master.zip - Flash Loan Masterclass - 02/09/2023 - https://player.hotmart.com/embed/3Rdgkle7Zm?signature=ACy55auMptnJmNEfE1m1ctEHXMz8L_gOvsPJ9Q5-fYWbJC4kSLR3jkYp7GczZHmo6peib56udI2Stbqg20KUoH2J3Cb83i81sAUYPIme4dDgKWJPICXAZlSmtq8aOMRaCQP9cQw96MmVhEP4yTVYgp1D_PppvYZYzzPWCU6tctDe40XHPCWXHoNY4wxx-F6AcLbNNH7jJRJx3U3WdoWr2efac7Ee7Om9q1ayaNniEbfxwGGwaeYnWJEySgM005y-xy9Vf3ZXPnUkI5EHz-a9yVu0BPZGMfazB8ZJBRzgpzJbQF0K5zPHdzF-MUv41xJqlw3w6Yf7hRG7DES6B-zWPQ==&token=aa2d356b-e2f0-45e8-9725-e0efc7b5d29c&user=104896620&autoplay=autoplay
+
+
+https://blockchain-mastery-university.s3.amazonaws.com/20220818-flashloan_masterclass-master.zip - Flash Loan Masterclass (August 2022) - https://player.hotmart.com/embed/5Z3yl639qa?signature=jgXhgM72ESIfzwnR3jSMDxgjiP-2z3rmYyFXnNTfu1ojaxBQ4K4ir8rYNMs80qx_gQ4bB7iAxg-uV1TpGU-EIx0nkxEUItQG6GS9Dn5nmmL-jTRFDDBXTG32w_Y8i8i5Nfxk6VD_AmyjvpUAzxqcWFyhl8VCNHQy5V4Tl1Nqqu-HG9-JR1N2QwJLBXd9Bdjn4ZxwFG0ULEcAvhqtbHlZ3YPfOQtCPJw6R2S90b9ENhf06Xkp_SBrBcTm7CmA0HZ-YqU8RRbbYUGc_K2tZJIvmmEmNvZg7c96U222m3wkFXpUfrOkX1yKRv62PPSm2bQnVD9UkX3sTTwrPYhFAEQnkw==&token=aa2d356b-e2f0-45e8-9725-e0efc7b5d29c&user=104896620
+
+https://blockchain-mastery-university.s3.amazonaws.com/flash_loan_masterclass_examples-master.zip - - Flash Loan Masterclass (March 2022) - https://player.hotmart.com/embed/GZWWMPXwZA?signature=204YC73aLdHfTDex3e6CttiaCxMXDkc92VGZj2OmKRea7ZMVL4jc7VWp9-QvUO5fIgbmjDyY6_uGdC6Vft4362GXMMJhMFmIYaU0KOq6CmRVtC1K8yJxwBL9y90B0n7cEe4INgRm40OsOQFVsqCC6mDsNO5gSEFcJ6C_Z39meLvbwO8s1lbfeaaPIsGTlVI0s565WMW99bTnM1iJacKoZNWJMyihRvoKpo82dVnVOpB7s8Gmr6_35o4AwsCwfQaFBB_AFu0EzSWVRe7e9Ae3168bGmK56T4m1sigb7LQQK9V2nTncvcIHVpEwXi4XCNCyvAXCSmiwuFfO0pk42hQjQ==&token=aa2d356b-e2f0-45e8-9725-e0efc7b5d29c&user=104896620
+
+https://cdn.fs.teachablecdn.com/C0SFhXDySJCWIRZ16zcE - Flash Loan Masterclass (August 2021) - https://player.hotmart.com/embed/2qYjzz7OLB?signature=vndi5JdKaqHT5NFnbe9C7XHtSXhYgaPP0621yddwHmZcnSGd66wtLi7zLLUnOM7A9itocLPB5vM6B4OoWviWW5ACCQ_n62-BynP-_q40aFQ7yVXEi57_jBDpWnZIkvs9W5MMqER47koykdXjR1riSmRVjXjRE9AAAXaOFgSU958-Fpy2gdZGCa-J44IdJzF_Gr7UQI57RUZRmp4AkXYAh29WGdl4Zx9hI4is6LLjF8uVB8312JifArxfEvv641KBK14F5Dj_5RTwCQOTgD-dxBfzxWUhcQIA6aYqzMsAPehGY4xCgu3ByjeKXDzJhTnUM4jTxWPHfTfcRcZEI_41cg==&token=aa2d356b-e2f0-45e8-9725-e0efc7b5d29c&user=104896620
+
+Resources:
+https://remix.ethereum.org
+https://gist.github.com/gwmccubbin/8a7c3fc83da2532099fcca235d87cb38
+https://gist.github.com/gwmccubbin/42851b94eeec954caa5aa1fac9778920
+https://gist.github.com/gwmccubbin/74504c70602014e162561df9cf06ecc2
+https://blockchain-mastery-university.s3.amazonaws.com/yf_fl_mc-master-final.zip
+
+- Flash Loan Masterclass (June 2020) - https://player.hotmart.com/embed/Pq9gkQVGZO?signature=t5Lqx2VKkRCF-xAvOKcKaKh8mgbU8uYfobHss0QkXrkfeMrcy65TesLGb2SXGX9orLVLUV1FEET9rPLzlDq0JKph1LP5D1thQr8KN9q2dGsDScccbEA1oYcwx74Q4-PBwI1Uqzd7NmUIwWCJUMD4WugWtZkzuXH9tskMsrYp4Qnv41gtxPDl_qwuWRoFkGcfp7WmFKJbQnZ3IFTbX7yzT_SvKFSq7MtOSWhUbJtkS96CQVgb9S3OzbigGtUhCyTpkVRdOHci_7VCgp4ZFhSjBS10vKAe33mWtkttXQ15WFGoo0VYzXbANgmMsSkhqLrWm9mXghydSr7rrYR4TTX0cQ==&token=aa2d356b-e2f0-45e8-9725-e0efc7b5d29c&user=104896620
+
+Resources:
+https://remix.ethereum.org
+https://gist.github.com/gwmccubbin/42851b94eeec954caa5aa1fac9778920
+https://gist.github.com/gwmccubbin/74504c70602014e162561df9cf06ecc2
+https://gist.github.com/gwmccubbin/05b799f2dd9b4afcc4190490527835c9
+
+```
+
+
 
 ## Technology Stack & Tools
 
