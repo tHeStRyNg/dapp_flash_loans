@@ -1,4 +1,4 @@
-# Trading Bot Demo
+# Trading Bot Demo - https://www.youtube.com/watch?v=BtVZ7DmJN2E&t=3537s&ab_channel=DappUniversity
 
 ## Technology Stack & Tools
 
