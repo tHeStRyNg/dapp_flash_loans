@@ -2,7 +2,7 @@
 ```
 - DAAP UNIVERSITY -
 https://dappuniversity.teachable.com/
-User: niv137@gmail.com
+User: niv137@*****.com
 Pass: Dimebag1
 
 flashloan_masterclass_hardhat-master - https://www.youtube.com/watch?v=YBSkxsl9suM - Flash Loan Masterclass, August 2023 Replay - https://www.youtube.com/watch?v=YBSkxsl9suM
